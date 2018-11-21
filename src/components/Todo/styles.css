@@ -1,0 +1,16 @@
+.todo {
+  background-color: #fff;
+  margin: 25px 0 0;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.4);
+}
+
+.todo--empty {
+  padding: 20px;
+}
+
+
+
+.todo__item {
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+}
